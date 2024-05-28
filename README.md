@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🔭 We’re developing and designing mobile applications , web applications (CRM,CMS), and websites.<br>🤝 We’re looking for expanding our technology stack and reaching new clients.<br>💬 Ask us about our development process or any of our projects.
 
 
